@@ -19,3 +19,4 @@ A Personal Finance Management System built using Python, Tkinter, SQLite, and Ma
 ## How to run
 ```bash
 python expense_tracker.py
+Updated project documentation
