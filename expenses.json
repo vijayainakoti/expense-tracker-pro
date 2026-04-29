@@ -1,0 +1,22 @@
+[
+    {
+        "amount": 1000,
+        "category": "Food",
+        "date": "2026-03-13"
+    },
+    {
+        "amount": 2000,
+        "category": "Skincare",
+        "date": "2026-04-28"
+    },
+    {
+        "amount": 500,
+        "category": "Groceries",
+        "date": "2026-01-12"
+    },
+    {
+        "amount": 500,
+        "category": "Food",
+        "date": "2026-04-29"
+    }
+]
